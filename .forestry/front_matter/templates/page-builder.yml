@@ -32,4 +32,5 @@ fields:
   - simple-footer
   - 4-column-footer
 pages:
+- _posts/best-web-hosting-for-beginners.md
 - index.md
